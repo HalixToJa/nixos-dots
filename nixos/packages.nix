@@ -4,7 +4,7 @@
   };
 
   environment.systemPackages = with pkgs; [
-    discord
+    (discord.override {withVencord = true;})
     librewolf-bin
     
     # cli
