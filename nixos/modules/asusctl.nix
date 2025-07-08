@@ -4,5 +4,8 @@
       enable = true;
       enableUserService = true;
     };
+    supergfxd = {
+      enable = false;
+    };
   };
 }
