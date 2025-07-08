@@ -8,7 +8,6 @@
     librewolf-bin
     
     # cli
-    helix
     fastfetch
     git
     wget
@@ -17,6 +16,9 @@
     linuxKernel.packages.linux_6_15.cpupower  
     bash
 
+    #gejming
+    protonup-qt
+    
     #kde
     kdePackages.kdeconnect-kde
     kdePackages.konsole
