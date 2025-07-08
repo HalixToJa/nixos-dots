@@ -31,5 +31,6 @@
     noto-fonts
     noto-fonts-color-emoji
     noto-fonts-lgc-plus
+    noto-fonts-cjk-sans
   ];
 }
